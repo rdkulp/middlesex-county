@@ -9,6 +9,8 @@
  */
 {
   "current": {
+    "logo": "shopify://shop_images/middlesex-county-logo-white.svg",
+    "logo_inverse": "shopify://shop_images/middlesex-county-logo-white.svg",
     "logo_height": 36,
     "logo_height_mobile": 28,
     "type_body_font": "liter_n4",
