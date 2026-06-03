@@ -113,9 +113,9 @@
                 "width": "custom",
                 "custom_width": 80,
                 "inherit_color_scheme": true,
+                "color_scheme": "",
                 "heading": "",
                 "heading_preset": "h3",
-                "color_scheme": "",
                 "border_style": "all",
                 "border_width": 1,
                 "border_radius": 100,
@@ -258,7 +258,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 0,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-2",
         "padding-block-start": 60,
         "padding-block-end": 32
       }
