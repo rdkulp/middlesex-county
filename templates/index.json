@@ -1054,6 +1054,9 @@
       "block_order": [
         "group_Kihafi"
       ],
+      "custom_css": [
+        "h2 {font-size: 164px; position: absolute; top: 50%;}"
+      ],
       "name": "Collection highlights",
       "settings": {
         "content_direction": "row",
