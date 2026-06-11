@@ -314,8 +314,8 @@
         "border_width": 1,
         "drop_shadow": false,
         "color_scheme": "",
-        "padding-block-start": 40,
-        "padding-block-end": 40
+        "padding-block-start": 0,
+        "padding-block-end": 0
       }
     },
     "section_6PnLrM": {
@@ -597,7 +597,7 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 0,
-        "padding-block-end": 80
+        "padding-block-end": 0
       }
     },
     "media_with_content_E7M3aJ": {
