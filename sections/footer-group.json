@@ -183,8 +183,8 @@
               "type": "menu",
               "name": "t:names.menu",
               "settings": {
-                "menu": "footer",
-                "heading": "Skincare",
+                "menu": "who-we-are",
+                "heading": "Who We Are",
                 "menu_spacing": 12,
                 "show_as_accordion": true,
                 "accordion_icon": "plus",
@@ -205,7 +205,7 @@
               "name": "t:names.menu",
               "settings": {
                 "menu": "",
-                "heading": "Makeup",
+                "heading": "Get in Touch",
                 "menu_spacing": 12,
                 "show_as_accordion": true,
                 "accordion_icon": "plus",
@@ -226,7 +226,7 @@
               "name": "t:names.menu",
               "settings": {
                 "menu": "",
-                "heading": "About",
+                "heading": "Press",
                 "menu_spacing": 12,
                 "show_as_accordion": true,
                 "accordion_icon": "plus",
