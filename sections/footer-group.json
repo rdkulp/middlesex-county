@@ -342,8 +342,9 @@
           "type": "image",
           "name": "Image",
           "settings": {
+            "image": "shopify://shop_images/middlesex-county-logo-white_9c3af75f-9d9f-40c5-a98f-b56e8cce3799.svg",
             "link": "",
-            "image_ratio": "landscape",
+            "image_ratio": "adapt",
             "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
@@ -375,7 +376,7 @@
         "vertical_alignment_flex_direction_column": "center",
         "gap": 12,
         "section_width": "page-width",
-        "section_height": "small",
+        "section_height": "",
         "section_height_custom": 50,
         "color_scheme": "scheme-2",
         "background_media": "none",
@@ -390,7 +391,7 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 0,
-        "padding-block-end": 32
+        "padding-block-end": 0
       }
     },
     "utilities": {
