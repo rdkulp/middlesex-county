@@ -995,46 +995,6 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {
-                    "product_card_gallery_kcwd68": {
-                      "type": "_product-card-gallery",
-                      "settings": {
-                        "image_ratio": "adapt",
-                        "border": "none",
-                        "border_width": 1,
-                        "border_opacity": 100,
-                        "border_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    },
-                    "product_title_G4XRNt": {
-                      "type": "product-title",
-                      "name": "t:names.product_title",
-                      "settings": {
-                        "width": "fit-content",
-                        "max_width": "normal",
-                        "alignment": "left",
-                        "type_preset": "paragraph",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 4,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    },
                     "price_i6MVbR": {
                       "type": "price",
                       "name": "t:names.product_price",
@@ -1060,8 +1020,6 @@
                     }
                   },
                   "block_order": [
-                    "product_card_gallery_kcwd68",
-                    "product_title_G4XRNt",
                     "price_i6MVbR"
                   ]
                 },
