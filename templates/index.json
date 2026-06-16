@@ -1124,7 +1124,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Shop Merch</h2>",
+                "text": "<h2>SHOP MERCH</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
