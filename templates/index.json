@@ -41,7 +41,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>SOMETHING IS COMING TO MIDDLESEX COUNTY</h3>",
+                "text": "<p>NEW JERSEY'S CLUB</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -66,7 +66,7 @@
             "text_aFKtRf": {
               "type": "text",
               "settings": {
-                "text": "<p>MIDDLESEX COUNTY WILL BE HOME TO A NEW FOOTBALL CLUB</p>",
+                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
