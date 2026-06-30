@@ -41,7 +41,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>New arrivals</h3>",
+                "text": "<h3>SOMETHING IS COMING TO MIDDLESEX COUNTY</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -66,7 +66,7 @@
             "text_aFKtRf": {
               "type": "text",
               "settings": {
-                "text": "<p>Introducing our latest products, made especially for the season. Shop your favorites before they're gone!</p>",
+                "text": "<p>MIDDLESEX COUNTY WILL BE HOME TO A NEW FOOTBALL CLUB</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -113,6 +113,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "video",
+            "video_1": "shopify://files/videos/Viva Futbol Volume 91.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -137,7 +138,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Bestsellers</h2>",
+                "text": "<h2>MIDDLESEX COUNTY CAN GET IT</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -162,7 +163,7 @@
             "text_tQw633": {
               "type": "text",
               "settings": {
-                "text": "<p>Discover the bestsellers that have captured the hearts of our customers with their perfect blend of functionality and style.</p>",
+                "text": "<p>MLS NEXT PRO IS COMING SOON</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
