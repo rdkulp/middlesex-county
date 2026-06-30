@@ -354,7 +354,7 @@
       },
       "name": "t:names.editorial",
       "settings": {
-        "media_position": "left",
+        "media_position": "right",
         "media_width": "medium",
         "media_height": "60svh",
         "section_width": "full-width",
