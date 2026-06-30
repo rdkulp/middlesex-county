@@ -138,7 +138,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>MIDDLESEX COUNTY CAN GET IT</h2>",
+                "text": "<p>NEW JERSEY'S CLUB</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -163,7 +163,7 @@
             "text_tQw633": {
               "type": "text",
               "settings": {
-                "text": "<p>MLS NEXT PRO IS COMING SOON</p>",
+                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
