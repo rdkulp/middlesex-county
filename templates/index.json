@@ -1315,7 +1315,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "{{ closest.product.description }}",
+                    "text": "<p>Place your deposit today to guarantee access to season tickets when they go on sale. Pricing and seat inventory are still being determined. One deposit required per seat.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
