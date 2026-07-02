@@ -27,7 +27,7 @@
             "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
             "inherit_color_scheme": false,
-            "color_scheme": "scheme-6",
+            "color_scheme": "scheme-1",
             "toggle_overlay": false,
             "overlay_color": "#00000026",
             "overlay_style": "solid",
@@ -125,7 +125,7 @@
             "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
             "inherit_color_scheme": false,
-            "color_scheme": "scheme-6",
+            "color_scheme": "scheme-1",
             "toggle_overlay": true,
             "overlay_color": "#00000080",
             "overlay_style": "solid",
@@ -212,6 +212,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "video",
+            "animates_in": false,
             "video_1": "shopify://files/videos/Viva Futbol Volume 91.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -222,7 +223,7 @@
             "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
             "inherit_color_scheme": false,
-            "color_scheme": "scheme-6",
+            "color_scheme": "scheme-1",
             "toggle_overlay": false,
             "overlay_color": "#00000026",
             "overlay_style": "solid",
@@ -436,6 +437,7 @@
           "name": "t:names.slide",
           "settings": {
             "media_type_1": "video",
+            "animates_in": false,
             "video_1": "shopify://files/videos/Viva Futbol Volume 91.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -533,6 +535,7 @@
           "type": "_layered-slide",
           "settings": {
             "media_type_1": "image",
+            "animates_in": false,
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -629,6 +632,7 @@
           "type": "_layered-slide",
           "settings": {
             "media_type_1": "image",
+            "animates_in": false,
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
