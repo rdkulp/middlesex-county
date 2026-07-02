@@ -62,6 +62,7 @@
         "image_qbbrrb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/middlesex-county-theatre.jpg",
             "link": "",
             "image_ratio": "square",
             "width": "fill",
@@ -237,7 +238,7 @@
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
-            "image_position": "cover",
+            "image_position": "contain",
             "video_position": "cover"
           },
           "blocks": {}
