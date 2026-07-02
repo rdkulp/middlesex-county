@@ -366,62 +366,89 @@
         "padding-block-end": 0
       }
     },
-    "media_with_content_6Kpwg6": {
-      "type": "media-with-content",
+    "section_fqG8Qc": {
+      "type": "section",
       "blocks": {
-        "media": {
-          "type": "_media-without-appearance",
-          "static": true,
+        "text_34xFeV": {
+          "type": "text",
           "settings": {
-            "media_type": "image",
-            "link": "",
-            "video_loop": true,
-            "video_autoplay": false,
-            "image_position": "cover",
-            "video_position": "cover"
+            "text": "<p>MLS NEXT Pro is the official professional development league of Major League Soccer, connecting elite youth soccer to MLS first teams. Launched in 2022, the league enters its fifth season in 2026 with 30 clubs across the U.S. and Canada. More than 200 players have signed with MLS first teams after competing in MLS NEXT Pro. The stars of today and tomorrow play here every week.</p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
           "blocks": {}
         },
-        "content": {
-          "type": "_content-without-appearance",
-          "static": true,
+        "image_3CyF6V": {
+          "type": "image",
+          "name": "t:names.image",
           "settings": {
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "flex-end",
-            "gap": 24
+            "image": "shopify://shop_images/Asset_5.svg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
-          "blocks": {
-            "jumbo_text_JCCGRq": {
-              "type": "jumbo-text",
-              "name": "t:names.jumbo_text",
-              "settings": {
-                "text": "About MLS NEXT Pro",
-                "font": "heading",
-                "alignment": "right",
-                "line_height": "0.8",
-                "letter_spacing": "-0.03em",
-                "case": "uppercase",
-                "text_effect": "none",
-                "animation_repeat": false
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "jumbo_text_JCCGRq"
-          ]
+          "blocks": {}
         }
       },
-      "name": "t:names.editorial_jumbo_text",
+      "block_order": [
+        "text_34xFeV",
+        "image_3CyF6V"
+      ],
+      "name": "t:names.large_logo",
       "settings": {
-        "media_position": "right",
-        "media_width": "medium",
-        "media_height": "60svh",
-        "section_width": "full-width",
-        "extend_media": true,
-        "color_scheme": "scheme-2",
-        "padding-block-start": 0,
-        "padding-block-end": 0
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "space-between",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "medium",
+        "section_height_custom": 50,
+        "color_scheme": "scheme-1",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 40,
+        "padding-block-end": 40
       }
     }
   },
@@ -429,6 +456,6 @@
     "main",
     "section_dHRDLM",
     "media_with_content_tHiWFR",
-    "media_with_content_6Kpwg6"
+    "section_fqG8Qc"
   ]
 }
