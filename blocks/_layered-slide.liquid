@@ -33,10 +33,16 @@
       -%}
 
       {%- if block.settings.media_type_1 == 'image' -%}
+        {%- liquid
+          assign layered_image_class = 'layered-slideshow__image'
+          if block.settings.animates_in
+            assign layered_image_class = layered_image_class | append: ' pixelate-in'
+          endif
+        -%}
         {{
           block.settings.image_1
           | image_url: width: 3840
-          | image_tag: height: height, sizes: sizes, widths: widths, class: 'layered-slideshow__image', loading: loading
+          | image_tag: height: height, sizes: sizes, widths: widths, class: layered_image_class, loading: loading
         }}
       {%- else -%}
         {%- if block.settings.video_1.preview_image -%}
@@ -141,6 +147,13 @@
       "type": "image_picker",
       "id": "image_1",
       "label": "t:settings.image",
+      "visible_if": "{{ block.settings.media_type_1 == 'image' }}"
+    },
+    {
+      "type": "checkbox",
+      "id": "animates_in",
+      "label": "Image animates in",
+      "default": false,
       "visible_if": "{{ block.settings.media_type_1 == 'image' }}"
     },
     {

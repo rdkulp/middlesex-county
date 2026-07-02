@@ -40,6 +40,13 @@
   assign widths = '240, 352, 832, 1200, 1600, 1920, 2560, 3840'
 %}
 
+{% liquid
+  assign image_class = 'image-block__image border-style'
+  if block_settings.animates_in
+    assign image_class = image_class | append: ' pixelate-in'
+  endif
+%}
+
 {% capture image %}
   {%- if block_settings.image -%}
     {{
@@ -49,7 +56,7 @@
         width: block_settings.image.width,
         widths: widths,
         height: block_settings.image.height,
-        class: 'image-block__image border-style',
+        class: image_class,
         style: image_border_style,
         sizes: sizes,
         loading: 'lazy'
@@ -122,6 +129,12 @@
       "type": "image_picker",
       "id": "image",
       "label": "t:settings.image"
+    },
+    {
+      "type": "checkbox",
+      "id": "animates_in",
+      "label": "Image animates in",
+      "default": false
     },
     {
       "type": "url",

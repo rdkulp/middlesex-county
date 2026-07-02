@@ -17,6 +17,11 @@
   if block_settings.media_type == 'video'
     assign show_video = true
   endif
+
+  assign media_image_class = 'media-block__media border-style'
+  if block_settings.animates_in
+    assign media_image_class = media_image_class | append: ' pixelate-in'
+  endif
 %}
 
 <div
@@ -41,7 +46,7 @@
       {% if block_settings.image != blank %}
         {% render 'image',
           image: block_settings.image,
-          class: 'media-block__media border-style',
+          class: media_image_class,
           unset_image_tag: unset_image_tag
         %}
       {% else %}

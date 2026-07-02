@@ -112,6 +112,11 @@
   if section.index == 1
     assign fetch_priority = 'high'
   endif
+
+  assign hero_image_class = 'hero__media'
+  if section.settings.animates_in
+    assign hero_image_class = 'hero__media pixelate-in'
+  endif
 %}
 
 {% capture media_slot_1 %}
@@ -140,7 +145,7 @@
           widths: widths,
           height: section.settings.image_1.height,
           alt: section.settings.image_1.alt,
-          class: 'hero__media',
+          class: hero_image_class,
           sizes: sizes,
           fetchpriority: fetch_priority,
           data-testid: 'hero-desktop-image-1'
@@ -156,7 +161,7 @@
           widths: widths,
           height: section.settings.image_1.height,
           alt: section.settings.image_1.alt,
-          class: 'hero__media',
+          class: hero_image_class,
           sizes: sizes,
           fetchpriority: fetch_priority,
           data-testid: 'hero-desktop-image-1'
@@ -192,7 +197,7 @@
             widths: mobile_widths,
             height: section.settings.image_1_mobile.height,
             alt: section.settings.image_1_mobile.alt,
-            class: 'hero__media',
+            class: hero_image_class,
             sizes: sizes_mobile,
             fetchpriority: fetch_priority,
             data-testid: 'hero-mobile-image-1'
@@ -244,7 +249,7 @@
           widths: widths,
           height: section.settings.image_2.height,
           alt: section.settings.image_2.alt,
-          class: 'hero__media',
+          class: hero_image_class,
           sizes: sizes,
           fetchpriority: fetch_priority,
           data-testid: 'hero-desktop-image-2'
@@ -260,7 +265,7 @@
           widths: widths,
           height: section.settings.image_2.height,
           alt: section.settings.image_2.alt,
-          class: 'hero__media',
+          class: hero_image_class,
           sizes: sizes,
           fetchpriority: fetch_priority,
           data-testid: 'hero-desktop-image-2'
@@ -296,7 +301,7 @@
             widths: mobile_widths,
             height: section.settings.image_2_mobile.height,
             alt: section.settings.image_2_mobile.alt,
-            class: 'hero__media',
+            class: hero_image_class,
             sizes: sizes_mobile,
             fetchpriority: fetch_priority,
             data-testid: 'hero-mobile-image-2'
@@ -781,6 +786,12 @@
     "groups": ["header"]
   },
   "settings": [
+    {
+      "type": "checkbox",
+      "id": "animates_in",
+      "label": "Image animates in",
+      "default": false
+    },
     {
       "type": "header",
       "content": "t:content.media_1"

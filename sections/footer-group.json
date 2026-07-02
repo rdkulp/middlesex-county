@@ -343,6 +343,7 @@
           "name": "Image",
           "settings": {
             "image": "shopify://shop_images/Asset_13.svg",
+            "animates_in": true,
             "link": "",
             "image_ratio": "adapt",
             "width": "fill",

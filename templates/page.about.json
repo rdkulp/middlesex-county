@@ -103,6 +103,7 @@
               "type": "image",
               "settings": {
                 "image": "shopify://shop_images/989133446_Carol_Polito_Roosevelt_Park.jpg",
+                "animates_in": true,
                 "link": "",
                 "image_ratio": "square",
                 "width": "fill",
@@ -415,6 +416,7 @@
               "name": "t:names.image",
               "settings": {
                 "image": "shopify://shop_images/leadership.png",
+                "animates_in": true,
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
@@ -657,6 +659,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image": "shopify://shop_images/Asset_5.svg",
+                    "animates_in": true,
                     "link": "",
                     "image_ratio": "adapt",
                     "width": "custom",
@@ -767,6 +770,7 @@
               "name": "t:names.image",
               "settings": {
                 "image": "shopify://shop_images/ball-stadium-placeholder_299fb929-f3ef-4a3e-80f3-aa3c8ef936f7.jpg",
+                "animates_in": true,
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",

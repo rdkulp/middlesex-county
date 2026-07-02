@@ -25,6 +25,13 @@
   if ratio == 0 or ratio == null
     assign ratio = 1
   endif
+
+  assign before_image_class = 'before-image'
+  assign after_image_class = 'after-image'
+  if block.settings.animates_in
+    assign before_image_class = 'before-image pixelate-in'
+    assign after_image_class = 'after-image pixelate-in'
+  endif
 %}
 
 <comparison-slider-component
@@ -53,7 +60,7 @@
             | image_url: width: 3840
             | image_tag:
               loading: 'lazy',
-              class: 'before-image',
+              class: before_image_class,
               alt: block.settings.before_image.alt,
               sizes: 'auto, 100vw',
               width: block.settings.before_image.width,
@@ -83,7 +90,7 @@
             | image_url: width: 3840
             | image_tag:
               loading: 'lazy',
-              class: 'after-image',
+              class: after_image_class,
               alt: block.settings.after_image.alt,
               sizes: 'auto, 100vw',
               width: block.settings.after_image.width,
@@ -403,6 +410,12 @@
       "type": "image_picker",
       "id": "after_image",
       "label": "t:settings.image_2"
+    },
+    {
+      "type": "checkbox",
+      "id": "animates_in",
+      "label": "Image animates in",
+      "default": false
     },
     {
       "type": "select",
