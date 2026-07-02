@@ -80,6 +80,58 @@
     "form": {
       "type": "section",
       "blocks": {
+        "text_J3RPrA": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<p>Get in Touch!</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h3",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_cdnk48": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>We'd love to hear from you. Reach out using the options below.</p><p>Sponsorship</p><p>Interested in partnering with New Jersey MLS NEXT Pro? We're building something new in Middlesex County and looking for partners who want to grow with us.</p><p>Contact us: partnerships@hometownsoccer.com</p><p>Tickets</p><p>Questions about season ticket deposits, group tickets, or premium seating? Our ticket team is here to help.</p><p>Contact us: tickets@hometownsoccer.com</p><p>Press & Media</p><p>For Media inquiries, interview requests, and press credentials, contact us at press@hometownsoccer.com</p><p>Careers</p><p>Interested in joining our team? We're building a club from the ground up and always looking for talented, passionate people.</p><p>Contact us: careers@hometownsoccer.com</p><p>General Inquiries</p><p>For everything else, use the form below or reach us at info@hometownsoccer.com</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "contact_form_UwiCkQ": {
           "type": "contact-form",
           "settings": {
@@ -113,6 +165,8 @@
         }
       },
       "block_order": [
+        "text_J3RPrA",
+        "text_cdnk48",
         "contact_form_UwiCkQ"
       ],
       "name": "t:names.contact_form",
