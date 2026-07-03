@@ -70,7 +70,7 @@
               "settings": {
                 "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. <br/>Be here from the start.</p>",
                 "width": "fit-content",
-                "max_width": "normal",
+                "max_width": "none",
                 "alignment": "left",
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
