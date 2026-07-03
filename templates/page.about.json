@@ -588,7 +588,7 @@
                   "settings": {
                     "text": "<p>MLS NEXT Pro is the official professional development league of Major League Soccer, connecting elite youth soccer to MLS first teams. Launched in 2022, the league enters its fifth season in 2026 with 30 clubs across the U.S. and Canada. More than 200 players have signed with MLS first teams after competing in MLS NEXT Pro. The stars of today and tomorrow play here every week.</p>",
                     "width": "fit-content",
-                    "max_width": "narrow",
+                    "max_width": "normal",
                     "alignment": "left",
                     "type_preset": "rte",
                     "font": "var(--font-body--family)",
