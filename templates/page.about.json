@@ -826,7 +826,9 @@
         "group_ERjGkg"
       ],
       "custom_css": [
-        "h2 {font-size: 164px; position: absolute; top: 50%;}"
+        "h2 {position: absolute; top: 50%;}",
+        "@media (max-width: 999px) {h2 {font-size: 60px; top: 33%; }}",
+        "@media (min-width: 1000px) {h2 {font-size: 164px; }}"
       ],
       "name": "Collection highlights",
       "settings": {
