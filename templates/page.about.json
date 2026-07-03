@@ -415,7 +415,7 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image": "shopify://shop_images/leadership.png",
+                "image": "shopify://shop_images/HSH_Primary_LightGray_DIGITAL.png",
                 "animates_in": true,
                 "link": "",
                 "image_ratio": "adapt",
