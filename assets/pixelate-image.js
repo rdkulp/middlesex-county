@@ -14,8 +14,8 @@
     gsap.set(img, { opacity: 0 });
     gsap.to(img, {
       opacity: 1,
-      duration: 0.9,
-      ease: 'power2.out',
+      duration: 0.666,
+      ease: 'ease',
       scrollTrigger: { trigger: img, start: 'top 85%', once: true },
     });
   });
