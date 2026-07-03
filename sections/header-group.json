@@ -18,23 +18,9 @@
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": "Sign up for our newsletter",
-            "link": "shopify://pages/contact",
+            "text": "PLACE YOUR DEPOSIT",
+            "link": "shopify://products/season-ticket-deposit",
             "font": "var(--font-body--family)",
-            "font_size": "var(--font-size--body-sm)",
-            "weight": "",
-            "letter_spacing": "normal",
-            "case": "none"
-          },
-          "blocks": {}
-        },
-        "announcement_UNyCWD": {
-          "type": "_announcement",
-          "name": "t:names.announcement",
-          "settings": {
-            "text": "Just launched: bestselling skincare bundles",
-            "link": "shopify://collections/all",
-            "font": "var(--font-primary--family)",
             "font_size": "var(--font-size--body-sm)",
             "weight": "",
             "letter_spacing": "normal",
@@ -44,13 +30,12 @@
         }
       },
       "block_order": [
-        "announcement_MHUQgy",
-        "announcement_UNyCWD"
+        "announcement_MHUQgy"
       ],
       "settings": {
         "speed": 5,
         "section_width": "full-width",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "divider_width": 0,
         "padding-block-start": 15,
         "padding-block-end": 15
