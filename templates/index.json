@@ -68,7 +68,7 @@
             "text_aFKtRf": {
               "type": "text",
               "settings": {
-                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
+                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. <br/>Be here from the start.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
