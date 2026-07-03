@@ -22,7 +22,7 @@
     class: class,
     can_add_to_cart: can_add_to_cart,
     product: closest.product,
-    add_to_cart_text: "Place your deposit ${% closest.product.price %}",
+    add_to_cart_text: settings.add_to_text,
     data_testid: 'standalone-add-to-cart'
   %}
 </span>
@@ -47,6 +47,12 @@
         }
       ],
       "default": "button-secondary"
+    },
+    {
+      "type": "text",
+      "id": "add_to_text",
+      "label": "Add to cart text",
+      "default": "Add to cart"
     }
   ]
 }
