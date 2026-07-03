@@ -86,7 +86,7 @@
             "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
+            "vertical_alignment": "flex-start",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "center",
@@ -128,7 +128,7 @@
                 "vertical_alignment": "center",
                 "align_baseline": false,
                 "horizontal_alignment_flex_direction_column": "flex-start",
-                "vertical_alignment_flex_direction_column": "center",
+                "vertical_alignment_flex_direction_column": "flex-start",
                 "gap": 24,
                 "width": "fill",
                 "custom_width": 100,
@@ -272,7 +272,7 @@
                 "text_Pk7iWh": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Sponsorship</h2>",
+                    "text": "<h2>Tickets</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -297,7 +297,7 @@
                 "text_mABHeA": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Questions about season ticket deposits, group tickets, or premium seating? Our ticket team is here to help.</p>",
+                    "text": "<p>Questions about season ticket deposits, group tickets, or premium seating? Our ticket team is here to help.<br/></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
