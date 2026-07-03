@@ -297,7 +297,7 @@
                 "text_mABHeA": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Questions about season ticket deposits, group tickets, or premium seating? Our ticket team is here to help.<br/></p>",
+                    "text": "<p>Questions about season ticket deposits, group tickets, or premium seating? <br/>Our ticket team is here to help.<br/></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -389,7 +389,7 @@
             "content_direction": "row",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
+            "vertical_alignment": "flex-start",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "center",
@@ -691,7 +691,7 @@
           "settings": {
             "content_direction": "row",
             "vertical_on_mobile": true,
-            "horizontal_alignment": "center",
+            "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
@@ -767,7 +767,7 @@
                 "text_eCpmbx": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Sponsorship</h2>",
+                    "text": "<h2>General Inquiries</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -792,7 +792,7 @@
                 "text_RfFbrh": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Interested in partnering with New Jersey MLS NEXT Pro? We're building something new in Middlesex County and looking for partners who want to grow with us.</p>",
+                    "text": "<p>For everything else, use the form below or reach us at</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -818,8 +818,8 @@
                   "type": "button",
                   "name": "t:names.button",
                   "settings": {
-                    "label": "partnerships@hometownsoccer.com",
-                    "link": "shopify://collections/all",
+                    "label": "info@hometownsoccer.com",
+                    "link": "mailto:info@hometownsoccer.com",
                     "open_in_new_tab": false,
                     "style_class": "button-secondary",
                     "width": "fit-content",
@@ -852,8 +852,8 @@
         "horizontal_alignment": "center",
         "vertical_alignment": "center",
         "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "flex-start",
         "gap": 16,
         "section_width": "page-width",
         "section_height": "",
@@ -907,7 +907,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>We'd love to hear from you. Reach out using the options below.</p><p></p><p>Interested in joining our team? We're building a club from the ground up and always looking for talented, passionate people.</p><p>Contact us: <a href=\"mailto:careers@hometownsoccer.com\" title=\"mailto:careers@hometownsoccer.com\">careers@hometownsoccer.com</a></p><p>General Inquiries</p><p>For everything else, use the form below or reach us at <a href=\"mailto:info@hometownsoccer.com\" title=\"mailto:info@hometownsoccer.com\">info@hometownsoccer.com</a></p>",
+            "text": "<p>We'd love to hear from you. Reach out using the options below.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
