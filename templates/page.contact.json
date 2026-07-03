@@ -218,7 +218,7 @@
                     "style_class": "button-secondary",
                     "width": "fit-content",
                     "custom_width": 100,
-                    "width_mobile": "fit-content",
+                    "width_mobile": "custom",
                     "custom_width_mobile": 100
                   },
                   "blocks": {}
@@ -350,6 +350,9 @@
       },
       "block_order": [
         "group_CKkMqB"
+      ],
+      "custom_css": [
+        "@media (max-width: 800px) {a {font-size: 14px; margin: 0 auto; }}"
       ],
       "name": "t:names.icons_with_text",
       "settings": {
@@ -654,6 +657,9 @@
       "block_order": [
         "group_pEjraz"
       ],
+      "custom_css": [
+        "@media (max-width: 800px) {a {font-size: 14px; margin: 0 auto; }}"
+      ],
       "name": "t:names.icons_with_text",
       "settings": {
         "content_direction": "row",
@@ -844,6 +850,9 @@
       },
       "block_order": [
         "group_gdtA86"
+      ],
+      "custom_css": [
+        "@media (max-width: 800px) {a {font-size: 14px; margin: 0 auto; }}"
       ],
       "name": "t:names.icons_with_text",
       "settings": {
