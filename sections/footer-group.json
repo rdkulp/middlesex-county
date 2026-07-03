@@ -286,7 +286,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>For Media inquiries, interview requests, and press credentials, contact us at press@hometownsoccer.com</p>",
+                    "text": "<p>For Media inquiries, interview requests, and press credentials, contact us at <a href=\"mailto:press@hometownsoccer.com\" title=\"mailto:press@hometownsoccer.com\">press@hometownsoccer.com</a></p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
