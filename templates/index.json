@@ -1406,7 +1406,8 @@
                   "type": "add-to-cart",
                   "static": true,
                   "settings": {
-                    "style_class": "button-secondary"
+                    "style_class": "button-secondary",
+                    "add_to_text": "Place your deposit $20.27"
                   },
                   "blocks": {}
                 },
