@@ -191,8 +191,8 @@
             "button_4yj4rd": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
+                "label": "SECURE YOUR DEPOSIT",
+                "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -1060,7 +1060,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>MLS NEXT PRO</h2>",
+                "text": "<h2>NEW JERSEY MLS NEXT PRO</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
