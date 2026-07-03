@@ -794,7 +794,7 @@
               "type": "logo",
               "name": "t:names.logo",
               "settings": {
-                "inverse": false,
+                "inverse": true,
                 "font": "heading",
                 "unit": "percent",
                 "percent_width": 100,
