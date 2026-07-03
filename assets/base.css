@@ -4215,7 +4215,7 @@ product-recommendations:has([data-has-recommendations='false']) {
 }
 
 /* Nav */
-.menu-list__link-title {
+.menu-list__link-title, .menu__heading__default, .menu__item.paragraph {
   font-family: 'MLSTifoStandard-Bold';
   text-transform: uppercase;
 }
