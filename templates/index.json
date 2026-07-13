@@ -1251,7 +1251,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>SEASON TICKET DEPOSITS ARE AVAILABLE NOW</p>",
+                    "text": "<p>FOUNDING MEMBERSHIPS ARE AVAILABLE NOW</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
