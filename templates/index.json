@@ -191,7 +191,7 @@
             "button_4yj4rd": {
               "type": "button",
               "settings": {
-                "label": "SECURE YOUR DEPOSIT",
+                "label": "SECURE YOUR MEMBERSHIP",
                 "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
                 "style_class": "button",
