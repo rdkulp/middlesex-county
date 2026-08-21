@@ -115,15 +115,15 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/16_9_1920_x_1080.png",
+            "image_1": "shopify://shop_images/9C3A1169.jpg",
             "animates_in": true,
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-end",
-            "vertical_alignment_flex_direction_column": "flex-end",
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
             "inherit_color_scheme": false,
             "color_scheme": "scheme-2",
@@ -211,7 +211,6 @@
         },
         "slide_KqccDW": {
           "type": "_slide",
-          "disabled": true,
           "settings": {
             "media_type_1": "video",
             "animates_in": false,
@@ -772,7 +771,7 @@
             "color_scheme": "",
             "background_media": "image",
             "video_position": "cover",
-            "background_image": "shopify://shop_images/16_9_1920_x_1080.png",
+            "background_image": "shopify://shop_images/20260319-MLSNP-NYCvTOR-004.jpg",
             "background_image_position": "cover",
             "border": "none",
             "border_width": 10,
@@ -794,7 +793,6 @@
             "logo_8wAWcU": {
               "type": "logo",
               "name": "t:names.logo",
-              "disabled": true,
               "settings": {
                 "inverse": true,
                 "font": "heading",
@@ -1002,7 +1000,6 @@
       "block_order": [
         "group_kE9mgh"
       ],
-      "disabled": true,
       "name": "Logo banner",
       "settings": {
         "content_direction": "column",
