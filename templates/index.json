@@ -211,6 +211,7 @@
         },
         "slide_KqccDW": {
           "type": "_slide",
+          "disabled": true,
           "settings": {
             "media_type_1": "video",
             "animates_in": false,
