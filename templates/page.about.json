@@ -221,7 +221,7 @@
               "type": "button",
               "settings": {
                 "label": "Place Your Deposit",
-                "link": "shopify://collections/all",
+                "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
                 "width": "fit-content",
