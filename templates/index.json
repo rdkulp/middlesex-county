@@ -772,7 +772,7 @@
             "color_scheme": "",
             "background_media": "image",
             "video_position": "cover",
-            "background_image": "shopify://shop_images/20260319-MLSNP-NYCvTOR-004.jpg",
+            "background_image": "shopify://shop_images/16_9_1920_x_1080.png",
             "background_image_position": "cover",
             "border": "none",
             "border_width": 10,
@@ -794,6 +794,7 @@
             "logo_8wAWcU": {
               "type": "logo",
               "name": "t:names.logo",
+              "disabled": true,
               "settings": {
                 "inverse": true,
                 "font": "heading",
