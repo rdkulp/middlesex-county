@@ -676,11 +676,27 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "button_VRqdGe": {
+                  "type": "button",
+                  "name": "t:names.button",
+                  "settings": {
+                    "label": "Find out more",
+                    "link": "https://www.mlsnextpro.com/",
+                    "open_in_new_tab": false,
+                    "style_class": "button-secondary",
+                    "width": "fit-content",
+                    "custom_width": 100,
+                    "width_mobile": "fit-content",
+                    "custom_width_mobile": 100
+                  },
+                  "blocks": {}
                 }
               },
               "block_order": [
                 "text_JjwqxQ",
-                "text_DeFALF"
+                "text_DeFALF",
+                "button_VRqdGe"
               ]
             }
           },
