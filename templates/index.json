@@ -141,7 +141,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>NEW JERSEY'S CLUB</p>",
+                "text": "<p>Pro soccer is coming to Middlesex County</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -166,7 +166,7 @@
             "text_b8BiTT": {
               "type": "text",
               "settings": {
-                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
+                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Become a founding member.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -191,7 +191,7 @@
             "button_4yj4rd": {
               "type": "button",
               "settings": {
-                "label": "SECURE YOUR MEMBERSHIP",
+                "label": "SHOP NOW",
                 "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
                 "style_class": "button",
