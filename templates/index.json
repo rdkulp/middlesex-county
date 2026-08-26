@@ -141,7 +141,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Pro soccer is coming to Middlesex County</p>",
+                "text": "<p>NEW JERSEY'S CLUB</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -166,7 +166,7 @@
             "text_b8BiTT": {
               "type": "text",
               "settings": {
-                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Become a founding member.</p>",
+                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -191,7 +191,7 @@
             "button_4yj4rd": {
               "type": "button",
               "settings": {
-                "label": "SHOP NOW",
+                "label": "SECURE YOUR MEMBERSHIP",
                 "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -211,11 +211,10 @@
         },
         "slide_KqccDW": {
           "type": "_slide",
-          "disabled": true,
           "settings": {
             "media_type_1": "video",
             "animates_in": false,
-            "video_1": "shopify://files/videos/Viva Futbol Volume 91.mp4",
+            "video_1": "shopify://files/videos/260818_SKYLARK_MLS_NEXT_ANNOUNCEMENT_16x9_V4.mp4",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -239,6 +238,7 @@
             "text_3dmQxi": {
               "type": "text",
               "name": "t:names.heading",
+              "disabled": true,
               "settings": {
                 "text": "<p>NEW JERSEY'S CLUB</p>",
                 "width": "fit-content",
@@ -264,6 +264,7 @@
             },
             "text_tQw633": {
               "type": "text",
+              "disabled": true,
               "settings": {
                 "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
                 "width": "fit-content",
@@ -289,6 +290,7 @@
             },
             "button_hxVUip": {
               "type": "button",
+              "disabled": true,
               "settings": {
                 "label": "Shop now",
                 "link": "shopify://collections/all",
