@@ -784,7 +784,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>BUILT BY PEOPLE WHO KNOW THE GAME</p>",
+                "text": "<p>ABOUT NEW YORK CITY FC</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -809,7 +809,7 @@
             "text_3aTFnk": {
               "type": "text",
               "settings": {
-                "text": "<p>New York City FC will oversee all sporting operations, giving players a direct pathway to MLS and beyond. Hometown Soccer Holdings is building the infrastructure to match: a purpose-built stadium, deep community partnerships, and a club local youth can aspire to.</p>",
+                "text": "<p>New York City FC is a Major League Soccer club founded in 2015 and competing out of New York City. One of the most recognized clubs in American soccer, NYCFC has built a reputation for developing elite professional talent and competing at the highest levels of MLS.</p><p>Through MLS NEXT Pro, New York City FC has proven their ability to identify and develop the next generation of professional players, producing talent that has gone on to compete in MLS, on national teams, and at clubs around the world. That commitment to player development is at the heart of the Middlesex County partnership.</p>",
                 "width": "fit-content",
                 "max_width": "none",
                 "alignment": "left",
@@ -830,11 +830,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "button_fqkJpk": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Find out more",
+                "link": "https://www.newyorkcityfc.com/",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_tmBLGL",
-            "text_3aTFnk"
+            "text_3aTFnk",
+            "button_fqkJpk"
           ]
         },
         "group_TDN6C8": {
@@ -881,12 +897,12 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image": "shopify://shop_images/HSH_Primary_LightGray_DIGITAL.png",
+                "image": "shopify://shop_images/Logo_New_York_City_FC_2025.svg",
                 "animates_in": true,
                 "link": "",
                 "image_ratio": "adapt",
                 "width": "custom",
-                "custom_width": 77,
+                "custom_width": 50,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -916,7 +932,7 @@
         "content_direction": "row",
         "vertical_on_mobile": true,
         "horizontal_alignment": "flex-start",
-        "vertical_alignment": "flex-end",
+        "vertical_alignment": "center",
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
         "vertical_alignment_flex_direction_column": "center",
