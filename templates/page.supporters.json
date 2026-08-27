@@ -157,7 +157,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Find out more about supporter events</h2>",
+            "text": "<h2>Help Build A Supporters Culture</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -183,8 +183,8 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique euismod facilisis. Duis dapibus augue ut orci feugiat, sit amet convallis ante suscipit. In malesuada ante id augue volutpat accumsan. Morbi pharetra ipsum mauris, nec lacinia ante interdum at. Suspendisse potenti. Fusce suscipit convallis tristique. Quisque maximus felis ac tortor auctor dictum. Integer et sodales urna. Vestibulum et finibus magna, eu ultrices tortor.</p>",
-            "width": "fit-content",
+            "text": "<p>Every great club is built from the stands. New Jersey MLS NEXT Pro is just getting started, and we're looking for the people who want to be here from the beginning.</p><p>Whether you're a lifelong soccer fan, a Middlesex County local, or someone who's been waiting for professional soccer to come to New Jersey, this is your club. Help us build the supporter culture from the ground up.</p><p>We're inviting fans to form the founding supporter groups for New Jersey MLS NEXT Pro. If you're interested in organizing, leading, or simply joining a supporters group, reach out. We want to hear from you.</p>",
+            "width": "100%",
             "max_width": "normal",
             "alignment": "left",
             "type_preset": "rte",
@@ -209,8 +209,8 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Follow along",
-            "link": "shopify://collections/all",
+            "label": "Get In Touch",
+            "link": "shopify://pages/contact",
             "open_in_new_tab": false,
             "style_class": "button-secondary",
             "width": "fit-content",
