@@ -244,7 +244,7 @@
             "text_QDD8dg": {
               "type": "text",
               "settings": {
-                "text": "<p>lorem ipsum</p><p></p>",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique euismod facilisis. Duis dapibus augue ut orci feugiat, sit amet convallis ante suscipit. In malesuada ante id augue volutpat accumsan. Morbi pharetra ipsum mauris, nec lacinia ante interdum at. Suspendisse potenti. Fusce suscipit convallis tristique. Quisque maximus felis ac tortor auctor dictum. Integer et sodales urna. Vestibulum et finibus magna, eu ultrices tortor.</p><p></p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
