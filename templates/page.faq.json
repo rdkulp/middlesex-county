@@ -664,7 +664,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "What is a Founding Membership?",
+                "heading": "How do I secure a Founding Membership?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -726,7 +726,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "What is a Founding Membership?",
+                "heading": "When will I find out about pricing and seat selection?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -736,7 +736,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Founding Members will be first in line to choose their seats, access exclusive member benefits, and be part of New Jersey MLS NEXT Pro from day one.</p><p>One deposit reserves one seat. If you're looking to secure multiple seats, place a deposit for each individually. Membership pricing and inventory are still being determined, and you'll be contacted with full details ahead of the general public on-sale.</p><p>Founding Members receive the following benefits: </p><ul><li>Priority seat selection (Select your season seat location before the general public.<br/>Priority numbers will be assigned based on purchase date and time)</li><li>Founding scarf</li><li>Venue recognition</li><li>Pre-launch member event(s)</li><li>Founding Member Club</li></ul>",
+                    "text": "<p>Membership pricing and seat inventory are still being determined. Founding Members will be contacted with full details ahead of the general public on-sale.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -776,101 +776,7 @@
                     "padding-inline-start": 0,
                     "padding-inline-end": 0
                   },
-                  "blocks": {
-                    "accordion_row_N9XeqG": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Return policy",
-                        "open_by_default": true,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {}
-                    },
-                    "accordion_row_EaNpTC": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Shipping",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_iKFjna": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_iKFjna"
-                      ]
-                    },
-                    "accordion_row_nWUE4z": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Manufacturing",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_NhtPXa": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>Our products are manufactured both locally and globally. We carefully select our manufacturing partners to ensure our products are high quality and a fair value.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_NhtPXa"
-                      ]
-                    }
-                  },
-                  "block_order": [
-                    "accordion_row_N9XeqG",
-                    "accordion_row_EaNpTC",
-                    "accordion_row_nWUE4z"
-                  ]
+                  "blocks": {}
                 }
               },
               "block_order": [
@@ -882,7 +788,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "What is a Founding Membership?",
+                "heading": "Is my deposit refundable?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -892,7 +798,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Founding Members will be first in line to choose their seats, access exclusive member benefits, and be part of New Jersey MLS NEXT Pro from day one.</p><p>One deposit reserves one seat. If you're looking to secure multiple seats, place a deposit for each individually. Membership pricing and inventory are still being determined, and you'll be contacted with full details ahead of the general public on-sale.</p><p>Founding Members receive the following benefits: </p><ul><li>Priority seat selection (Select your season seat location before the general public.<br/>Priority numbers will be assigned based on purchase date and time)</li><li>Founding scarf</li><li>Venue recognition</li><li>Pre-launch member event(s)</li><li>Founding Member Club</li></ul>",
+                    "text": "<p>Yes. Deposits are fully refundable. View the full Founding Membership Deposit Policy for details.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -932,130 +838,7 @@
                     "padding-inline-start": 0,
                     "padding-inline-end": 0
                   },
-                  "blocks": {
-                    "accordion_row_UmLHbG": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Return policy",
-                        "open_by_default": true,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_Q3wjWK": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_Q3wjWK"
-                      ]
-                    },
-                    "accordion_row_q3RaG8": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Shipping",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_gqzxQV": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_gqzxQV"
-                      ]
-                    },
-                    "accordion_row_WkYh68": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Manufacturing",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_kCLPX8": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>Our products are manufactured both locally and globally. We carefully select our manufacturing partners to ensure our products are high quality and a fair value.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_kCLPX8"
-                      ]
-                    }
-                  },
-                  "block_order": [
-                    "accordion_row_UmLHbG",
-                    "accordion_row_q3RaG8",
-                    "accordion_row_WkYh68"
-                  ]
+                  "blocks": {}
                 }
               },
               "block_order": [
@@ -1067,7 +850,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "What is a Founding Membership?",
+                "heading": "Where will the club play?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -1077,7 +860,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Founding Members will be first in line to choose their seats, access exclusive member benefits, and be part of New Jersey MLS NEXT Pro from day one.</p><p>One deposit reserves one seat. If you're looking to secure multiple seats, place a deposit for each individually. Membership pricing and inventory are still being determined, and you'll be contacted with full details ahead of the general public on-sale.</p><p>Founding Members receive the following benefits: </p><ul><li>Priority seat selection (Select your season seat location before the general public.<br/>Priority numbers will be assigned based on purchase date and time)</li><li>Founding scarf</li><li>Venue recognition</li><li>Pre-launch member event(s)</li><li>Founding Member Club</li></ul>",
+                    "text": "<p>New Jersey MLS NEXT Pro will play at NEXUS, a new sports and entertainment district in Edison, New Jersey. NEXUS features a 6,500-seat stadium, youth recreational fields, and a full-service restaurant and bar.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1117,130 +900,7 @@
                     "padding-inline-start": 0,
                     "padding-inline-end": 0
                   },
-                  "blocks": {
-                    "accordion_row_LhtMLL": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Return policy",
-                        "open_by_default": true,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_UbCEyX": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_UbCEyX"
-                      ]
-                    },
-                    "accordion_row_8w6y4Q": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Shipping",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_68cEHi": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_68cEHi"
-                      ]
-                    },
-                    "accordion_row_Wt4HT8": {
-                      "type": "_accordion-row",
-                      "settings": {
-                        "heading": "Manufacturing",
-                        "open_by_default": false,
-                        "icon": "none",
-                        "width": 20
-                      },
-                      "blocks": {
-                        "text_DgeMQY": {
-                          "type": "text",
-                          "settings": {
-                            "text": "<p>Our products are manufactured both locally and globally. We carefully select our manufacturing partners to ensure our products are high quality and a fair value.</p>",
-                            "width": "100%",
-                            "max_width": "normal",
-                            "alignment": "left",
-                            "type_preset": "rte",
-                            "font": "var(--font-body--family)",
-                            "font_size": "1rem",
-                            "line_height": "normal",
-                            "letter_spacing": "normal",
-                            "case": "none",
-                            "wrap": "pretty",
-                            "color": "var(--color-foreground)",
-                            "background": false,
-                            "background_color": "#00000026",
-                            "corner_radius": 0,
-                            "padding-block-start": 0,
-                            "padding-block-end": 0,
-                            "padding-inline-start": 0,
-                            "padding-inline-end": 0
-                          },
-                          "blocks": {}
-                        }
-                      },
-                      "block_order": [
-                        "text_DgeMQY"
-                      ]
-                    }
-                  },
-                  "block_order": [
-                    "accordion_row_LhtMLL",
-                    "accordion_row_8w6y4Q",
-                    "accordion_row_Wt4HT8"
-                  ]
+                  "blocks": {}
                 }
               },
               "block_order": [
