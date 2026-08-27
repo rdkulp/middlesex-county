@@ -63,7 +63,7 @@
         "text_83mN9D": {
           "type": "text",
           "settings": {
-            "text": "<h2>NEw stadium & NEXUS campus</h2>",
+            "text": "<h2>NEXUS</h2>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -219,7 +219,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>The Stadium</h2>",
+                "text": "<h2>Welcome to NEXUS</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -244,7 +244,7 @@
             "text_QDD8dg": {
               "type": "text",
               "settings": {
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique euismod facilisis. Duis dapibus augue ut orci feugiat, sit amet convallis ante suscipit. In malesuada ante id augue volutpat accumsan. Morbi pharetra ipsum mauris, nec lacinia ante interdum at. Suspendisse potenti. Fusce suscipit convallis tristique. Quisque maximus felis ac tortor auctor dictum. Integer et sodales urna. Vestibulum et finibus magna, eu ultrices tortor.</p><p></p>",
+                "text": "<p>New Jersey MLS NEXT Pro will play at <a href=\"https://nexusnj.com/\" title=\"https://nexusnj.com/\">NEXUS</a>, a new sports and entertainment district in Edison, New Jersey. Slated to open in fall 2026, NEXUS features a 6,500-seat stadium with an adjacent plaza, youth tournament and recreational fields, and a full-service restaurant and bar.</p><p>Located at the intersection of the NJ Turnpike, Garden State Parkway, and Route 287, NEXUS is built to serve fans from across New Jersey and the entire tri-state region.</p><p>New Jersey MLS NEXT Pro kicks off at NEXUS in July 2027.</p><p><strong>More Than a Stadium</strong></p><p>NEXUS is where athletes compete, families gather, and Middlesex County comes together. In 2027, New York City FC Youth Programs will open a Regional Hub at NEXUS, bringing the club's player development expertise to local youth ages three to eighteen and giving players direct exposure to the New York City FC professional pathway.</p><p></p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -265,11 +265,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "button_gazrNP": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Place a deposit",
+                "link": "shopify://products/season-ticket-deposit",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_Q674iX",
-            "text_QDD8dg"
+            "text_QDD8dg",
+            "button_gazrNP"
           ]
         }
       },
