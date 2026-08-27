@@ -107,7 +107,7 @@
             "accordion_row_cQafBG": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What is the return policy?",
+                "heading": "What is New Jersey MLS NEXT Pro?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -116,7 +116,7 @@
                 "text_yh6eGJ": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
+                    "text": "<p>New Jersey MLS NEXT Pro is a professional soccer club competing in MLS NEXT Pro, the official development league of Major League Soccer. The club will begin play in July 2027 at NEXUS in Edison, New Jersey.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -146,7 +146,7 @@
             "accordion_row_gMtCch": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Are any purchases final sale?",
+                "heading": "What is the club's name?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -155,7 +155,7 @@
                 "text_N6h4qj": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We are unable to accept returns on certain items. These will be carefully marked before purchase.</p>",
+                    "text": "<p>The permanent club name, crest, and colors are still being finalized and will be announced later in 2026. In the meantime, the club is being referred to as New Jersey MLS NEXT Pro.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -186,7 +186,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "When will I get my order?",
+                "heading": "What is the club's relationship with New York City FC?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -196,7 +196,59 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>",
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_mg6L8i": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_pWDJW6": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -220,14 +272,111 @@
                 }
               },
               "block_order": [
-                "text_gJFpAQ"
+                "text_gJFpAQ",
+                "text_mg6L8i",
+                "text_pWDJW6"
+              ]
+            },
+            "accordion_row_9Liwj9": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "What is the club's relationship with New York City FC?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_yH67rm": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_WGc7pf": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_niWL9m": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>New York City FC oversees all sporting operations for the club. The two organizations have a formal affiliate relationship within MLS NEXT Pro, meaning players develop within the New York City FC system with a direct pathway to the MLS first team and beyond.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_yH67rm",
+                "text_WGc7pf",
+                "text_niWL9m"
               ]
             },
             "accordion_row_k8kAYp": {
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Where are your products manufactured?",
+                "heading": "What is MLS NEXT Pro?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -237,7 +386,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Our products are manufactured both locally and globally. We carefully select our manufacturing partners to ensure our products are high quality and a fair value.</p>",
+                    "text": "<p>MLS NEXT Pro is the professional development league of Major League Soccer. Launched in 2022, the league enters its fifth season in 2026 with 30 clubs across the U.S. and Canada. More than 200 players have signed with MLS first teams after competing in MLS NEXT Pro.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -268,7 +417,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "How much does shipping cost?",
+                "heading": "What is a Founding Membership?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -278,7 +427,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Shipping is calculated based on your location and the items in your order. You will always know the shipping price before you purchase.</p>",
+                    "text": "<p>Founding Members will be first in line to choose their seats, access exclusive member benefits, and be part of New Jersey MLS NEXT Pro from day one.</p><p>One deposit reserves one seat. If you're looking to secure multiple seats, place a deposit for each individually. Membership pricing and inventory are still being determined, and you'll be contacted with full details ahead of the general public on-sale.</p><p>Founding Members receive the following benefits: </p><ul><li>Priority seat selection (Select your season seat location before the general public.<br/>Priority numbers will be assigned based on purchase date and time)</li><li>Founding scarf</li><li>Venue recognition</li><li>Pre-launch member event(s)</li><li>Founding Member Club</li></ul>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -299,10 +448,154 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "accordion_UgW9rC": {
+                  "type": "accordion",
+                  "name": "t:names.accordion",
+                  "settings": {
+                    "icon": "caret",
+                    "dividers": true,
+                    "type_preset": "h6",
+                    "inherit_color_scheme": true,
+                    "color_scheme": "",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "accordion_row_qDejkE": {
+                      "type": "_accordion-row",
+                      "settings": {
+                        "heading": "Return policy",
+                        "open_by_default": true,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_tfxybb": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>Our goal is for every customer to be totally satisfied with their purchase. If this isn't the case, let us know and we'll do our best to work with you to make it right.</p>",
+                            "width": "100%",
+                            "max_width": "normal",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "1rem",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "color": "var(--color-foreground)",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_tfxybb"
+                      ]
+                    },
+                    "accordion_row_rgmcHQ": {
+                      "type": "_accordion-row",
+                      "settings": {
+                        "heading": "Shipping",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_Cg38RD": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>",
+                            "width": "100%",
+                            "max_width": "normal",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "1rem",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "color": "var(--color-foreground)",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_Cg38RD"
+                      ]
+                    },
+                    "accordion_row_JiT9Ky": {
+                      "type": "_accordion-row",
+                      "settings": {
+                        "heading": "Manufacturing",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_h47NeA": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>Our products are manufactured both locally and globally. We carefully select our manufacturing partners to ensure our products are high quality and a fair value.</p>",
+                            "width": "100%",
+                            "max_width": "normal",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "1rem",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "color": "var(--color-foreground)",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_h47NeA"
+                      ]
+                    }
+                  },
+                  "block_order": [
+                    "accordion_row_qDejkE",
+                    "accordion_row_rgmcHQ",
+                    "accordion_row_JiT9Ky"
+                  ]
                 }
               },
               "block_order": [
-                "text_MDjJFa"
+                "text_MDjJFa",
+                "accordion_UgW9rC"
               ]
             }
           },
@@ -310,6 +603,7 @@
             "accordion_row_cQafBG",
             "accordion_row_gMtCch",
             "accordion_row_E7HJzq",
+            "accordion_row_9Liwj9",
             "accordion_row_k8kAYp",
             "accordion_row_QyVzMt"
           ]
