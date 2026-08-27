@@ -245,9 +245,9 @@
               "type": "text",
               "settings": {
                 "text": "<p>New Jersey MLS NEXT Pro will play at <a href=\"https://nexusnj.com/\" title=\"https://nexusnj.com/\">NEXUS</a>, a new sports and entertainment district in Edison, New Jersey. Slated to open in fall 2026, NEXUS features a 6,500-seat stadium with an adjacent plaza, youth tournament and recreational fields, and a full-service restaurant and bar.</p><p>Located at the intersection of the NJ Turnpike, Garden State Parkway, and Route 287, NEXUS is built to serve fans from across New Jersey and the entire tri-state region.</p><p>New Jersey MLS NEXT Pro kicks off at NEXUS in July 2027.</p><p><strong>More Than a Stadium</strong></p><p>NEXUS is where athletes compete, families gather, and Middlesex County comes together. In 2027, New York City FC Youth Programs will open a Regional Hub at NEXUS, bringing the club's player development expertise to local youth ages three to eighteen and giving players direct exposure to the New York City FC professional pathway.</p><p></p>",
-                "width": "fit-content",
-                "max_width": "narrow",
-                "alignment": "left",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
