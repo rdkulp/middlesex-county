@@ -192,7 +192,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>The Community</h2>",
+                "text": "<p>Growing the Game in Middlesex County</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -217,7 +217,7 @@
             "text_dCxNMj": {
               "type": "text",
               "settings": {
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique euismod facilisis. Duis dapibus augue ut orci feugiat, sit amet convallis ante suscipit. In malesuada ante id augue volutpat accumsan. Morbi pharetra ipsum mauris, nec lacinia ante interdum at. Suspendisse potenti. Fusce suscipit convallis tristique. Quisque maximus felis ac tortor auctor dictum. Integer et sodales urna. Vestibulum et finibus magna, eu ultrices tortor.</p>",
+                "text": "<p>New Jersey MLS NEXT Pro is built for this community. Middlesex County is one of the most diverse and soccer-passionate regions in the country, and this club intends to reflect that from day one.</p><p>In 2027, New York City FC Youth Programs will establish a Regional Hub at NEXUS, bringing the club's world-class player development coaching and methodology to Middlesex County. Programming will serve kids ages three to eighteen, based at the state-of-the-art soccer fields adjacent to the stadium.</p><p>Players who come through the Regional Hub will have direct exposure to New York City FC's professional development pathway, creating a pipeline from local youth soccer all the way to professional play.</p><p>Want to get involved or stay up to date on youth programming?</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -238,11 +238,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "button_KrF9HP": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Contact Us",
+                "link": "shopify://pages/contact",
+                "open_in_new_tab": false,
+                "style_class": "button-secondary",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_JyRCig",
-            "text_dCxNMj"
+            "text_dCxNMj",
+            "button_KrF9HP"
           ]
         }
       },

@@ -273,7 +273,7 @@
                 "label": "Place a deposit",
                 "link": "shopify://products/season-ticket-deposit",
                 "open_in_new_tab": false,
-                "style_class": "button",
+                "style_class": "button-secondary",
                 "width": "fit-content",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
