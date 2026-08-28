@@ -102,10 +102,10 @@
             "image_QMhGKG": {
               "type": "image",
               "settings": {
-                "image": "shopify://shop_images/989133446_Carol_Polito_Roosevelt_Park.jpg",
+                "image": "shopify://shop_images/16_9_1920_x_1080_2.png",
                 "animates_in": true,
                 "link": "",
-                "image_ratio": "square",
+                "image_ratio": "landscape",
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
@@ -1139,7 +1139,7 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
-                "image": "shopify://shop_images/Place_Your_Deposit_16_9_1920_x_1080.png",
+                "image": "shopify://shop_images/Place_Your_Deposit_16_9_1920_x_1080_1.png",
                 "animates_in": true,
                 "link": "shopify://products/season-ticket-deposit",
                 "image_ratio": "adapt",
@@ -1228,6 +1228,120 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
+    },
+    "section_WGeFQk": {
+      "type": "section",
+      "blocks": {
+        "text_XRhn8y": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Stay in the loop</h2>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "center",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_UAwXFh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Be the first to know about club news, Founding Membership updates, and matchday information.</p>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "center",
+            "type_preset": "paragraph",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "email_signup_xGczaD": {
+          "type": "email-signup",
+          "settings": {
+            "width": "custom",
+            "custom_width": 50,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "heading": "",
+            "heading_preset": "h3",
+            "border_style": "all",
+            "border_width": 1,
+            "border_radius": 100,
+            "input_type_preset": "paragraph",
+            "style_class": "button-unstyled",
+            "display_type": "arrow",
+            "label": "Sign up",
+            "integrated_button": true,
+            "button_type_preset": "paragraph",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_XRhn8y",
+        "text_UAwXFh",
+        "email_signup_xGczaD"
+      ],
+      "name": "t:names.email_signup",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "scheme-2",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
     }
   },
   "order": [
@@ -1237,6 +1351,7 @@
     "section_PYdETM",
     "section_b83Hmi",
     "section_BV9z8M",
-    "section_ntXtzB"
+    "section_ntXtzB",
+    "section_WGeFQk"
   ]
 }
