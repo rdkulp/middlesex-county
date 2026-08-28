@@ -1064,7 +1064,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>NEW JERSEY MLS NEXT PRO</h2>",
+                "text": "<h2>MLS NEXT PRO IS COMING TO NEW JERSEY</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -1089,7 +1089,7 @@
             "text_8kEdFg": {
               "type": "text",
               "settings": {
-                "text": "<p>MIDDLESEX COUNTY IS GETTING AN MLS NEXT PRO TEAM IN 2027</p>",
+                "text": "<p>Middlesex County is getting an MLS NEXT Pro team in 2027</p>",
                 "width": "100%",
                 "max_width": "narrow",
                 "alignment": "center",
@@ -1116,7 +1116,7 @@
               "name": "t:names.button",
               "settings": {
                 "label": "Learn More",
-                "link": "shopify://pages/stadium",
+                "link": "shopify://blogs/news/hometown-soccer-holdings-and-new-york-city-fc-to-relaunch-mls-next-pro-team-in-middlesex-county-new-jersey",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -1154,7 +1154,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/9C3A1169_cf59129e-663f-429c-b43b-66b53c3d2f17.jpg",
+            "image": "shopify://shop_images/02_Stadium_Aerial_Soccer-edit.jpg",
             "animates_in": true,
             "link": "",
             "video_loop": true,
@@ -1177,7 +1177,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>NEW JERSEY MLS NEXT PRO</h2>",
+                "text": "<h2>NEXUS STADIUM</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -1202,7 +1202,7 @@
             "text_hhCK8k": {
               "type": "text",
               "settings": {
-                "text": "<p>MIDDLESEX COUNTY IS GETTING AN MLS NEXT PRO TEAM IN 2027</p>",
+                "text": "<p>Discover New Jersey MLS NEXT Pro's future home</p>",
                 "width": "100%",
                 "max_width": "narrow",
                 "alignment": "center",
@@ -1229,7 +1229,7 @@
               "name": "t:names.button",
               "settings": {
                 "label": "Learn More",
-                "link": "shopify://pages/community",
+                "link": "shopify://pages/stadium",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -1290,7 +1290,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>NEW JERSEY MLS NEXT PRO</h2>",
+                "text": "<h2>JOIN THE MOVEMENT</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -1315,7 +1315,7 @@
             "text_VTJ4PR": {
               "type": "text",
               "settings": {
-                "text": "<p>MIDDLESEX COUNTY IS GETTING AN MLS NEXT PRO TEAM IN 2027</p>",
+                "text": "<p>Find out how New Jersey MLS NEXT Pro is growing the game in MIddlesex County</p>",
                 "width": "100%",
                 "max_width": "narrow",
                 "alignment": "center",
@@ -1342,7 +1342,7 @@
               "name": "t:names.button",
               "settings": {
                 "label": "Learn More",
-                "link": "shopify://pages/supporters",
+                "link": "shopify://pages/community",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
