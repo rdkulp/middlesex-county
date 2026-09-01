@@ -677,7 +677,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Yes. Deposits are fully refundable. View the full Founding Membership Deposit Policy for details.</p>",
+                    "text": "<p>No. Deposits are non-refundable. View the full <a href=\"/pages/ticket-policy\" title=\"Ticket Deposit Policy\">Founding Membership Deposit Policy</a> for details.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
