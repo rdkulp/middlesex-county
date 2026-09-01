@@ -553,7 +553,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Place a fully refundable $27 deposit to reserve your spot. One deposit is required per seat. If you want to secure multiple seats, place a deposit for each individually.</p><p><a href=\"https://middlesex-county.myshopify.com/products/season-ticket-deposit\" target=\"_blank\" title=\"NEW JERSEY MLS NEXT PRO FOUNDING MEMBERSHIP\">Click here</a> to purchase.</p>",
+                    "text": "<p>Place a fully refundable $27 or $50 deposit to reserve your spot. One deposit is required per seat. If you want to secure multiple seats, place a deposit for each individually.</p><p><a href=\"https://middlesex-county.myshopify.com/products/season-ticket-deposit\" target=\"_blank\" title=\"NEW JERSEY MLS NEXT PRO FOUNDING MEMBERSHIP\">Click here</a> to purchase.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
