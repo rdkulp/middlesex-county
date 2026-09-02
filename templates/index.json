@@ -761,7 +761,7 @@
         "media_type_1_mobile": "image",
         "image_1_mobile": "shopify://shop_images/Your-Neighborhood-_-Just-Went-Pro_R2-_1_Your-Neighborhood-4_5-_1080-x-1350.png",
         "media_type_2_mobile": "image",
-        "link": "",
+        "link": "shopify://products/season-ticket-deposit",
         "open_in_new_tab": false,
         "content_direction": "column",
         "vertical_on_mobile": true,
