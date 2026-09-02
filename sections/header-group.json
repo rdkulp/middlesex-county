@@ -18,6 +18,20 @@
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
+            "text": "PLACE A DEPOSIT TO BECOME A FOUNDING MEMBER",
+            "link": "shopify://products/season-ticket-deposit",
+            "font": "var(--font-body--family)",
+            "font_size": "var(--font-size--body-sm)",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none"
+          },
+          "blocks": {}
+        },
+        "announcement_R3CWa3": {
+          "type": "_announcement",
+          "name": "t:names.announcement",
+          "settings": {
             "text": "JOIN US FOR A SUPPORTER HAPPY HOUR",
             "link": "shopify://blogs/news/supporter-happy-hour-to-celebrate-the-launch-of-new-jersey-mls-next-pro",
             "font": "var(--font-body--family)",
@@ -27,25 +41,11 @@
             "case": "none"
           },
           "blocks": {}
-        },
-        "announcement_cp6L3U": {
-          "type": "_announcement",
-          "name": "t:names.announcement",
-          "settings": {
-            "text": "Place a deposit to become a founding member",
-            "link": "shopify://products/season-ticket-deposit",
-            "font": "var(--font-subheading--family)",
-            "font_size": "0.75rem",
-            "weight": "",
-            "letter_spacing": "normal",
-            "case": "none"
-          },
-          "blocks": {}
         }
       },
       "block_order": [
         "announcement_MHUQgy",
-        "announcement_cp6L3U"
+        "announcement_R3CWa3"
       ],
       "settings": {
         "speed": 5,
