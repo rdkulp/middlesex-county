@@ -1428,6 +1428,9 @@
           ]
         }
       },
+      "custom_css": [
+        "@media(min-width: 768px) {section {padding-top: 40px; }}"
+      ],
       "name": "t:names.featured_product_information",
       "settings": {
         "product": "season-ticket-deposit",
