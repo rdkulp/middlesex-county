@@ -765,7 +765,7 @@
             "gap": 48,
             "width": "fill",
             "custom_width": 100,
-            "width_mobile": "fill",
+            "width_mobile": "fit-content",
             "custom_width_mobile": 100,
             "height": "fill",
             "custom_height": 100,
