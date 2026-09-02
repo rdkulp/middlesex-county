@@ -14,10 +14,9 @@
       "blocks": {
         "slide_dkXFWa": {
           "type": "_slide",
-          "disabled": true,
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/NYRB_Champ_Photo.jpg",
+            "image_1": "shopify://shop_images/16_9_1920_x_1080_3_900cd981-82c8-4edf-9040-68638b15ac01.png",
             "animates_in": true,
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -43,7 +42,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>NEW JERSEY'S CLUB</p>",
+                "text": "<p>PROFESSIONAL SOCCER IS COMING TO MIDDLESEX COUNTY IN 2027</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -68,7 +67,7 @@
             "text_aFKtRf": {
               "type": "text",
               "settings": {
-                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. <br/>Be here from the start.</p>",
+                "text": "<p>Middlesex County’s new stadium at NEXUS will be home to the club which will play its first match in July 2027</p>",
                 "width": "fit-content",
                 "max_width": "none",
                 "alignment": "left",
@@ -93,8 +92,8 @@
             "button_Y3mDiD": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
+                "label": "Read More",
+                "link": "shopify://blogs/news",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -774,7 +773,7 @@
             "color_scheme": "",
             "background_media": "image",
             "video_position": "cover",
-            "background_image": "shopify://shop_images/16_9_1920_x_1080.png",
+            "background_image": "shopify://shop_images/Your_Neighborhood_16_9_1920_x_1080.png",
             "background_image_position": "cover",
             "border": "none",
             "border_width": 10,
