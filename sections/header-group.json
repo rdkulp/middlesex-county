@@ -14,12 +14,12 @@
     "header_announcements_kcHY6p": {
       "type": "header-announcements",
       "blocks": {
-        "announcement_MHUQgy": {
+        "announcement_fr6qbm": {
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": "PROFESSIONAL SOCCER IS COMING TO MIDDLESEX COUNTY!",
-            "link": "shopify://blogs/news/hometown-soccer-holdings-and-new-york-city-fc-to-relaunch-mls-next-pro-team-in-middlesex-county-new-jersey",
+            "text": "PLACE A DEPOSIT TO BECOME A FOUNDING MEMBER",
+            "link": "shopify://products/season-ticket-deposit",
             "font": "var(--font-body--family)",
             "font_size": "var(--font-size--body-sm)",
             "weight": "",
@@ -28,12 +28,12 @@
           },
           "blocks": {}
         },
-        "announcement_fr6qbm": {
+        "announcement_MHUQgy": {
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": "PLACE A DEPOSIT TO BECOME A FOUNDING MEMBER",
-            "link": "shopify://products/season-ticket-deposit",
+            "text": "PROFESSIONAL SOCCER IS COMING TO MIDDLESEX COUNTY!",
+            "link": "shopify://blogs/news/hometown-soccer-holdings-and-new-york-city-fc-to-relaunch-mls-next-pro-team-in-middlesex-county-new-jersey",
             "font": "var(--font-body--family)",
             "font_size": "var(--font-size--body-sm)",
             "weight": "",
@@ -58,8 +58,8 @@
         }
       },
       "block_order": [
-        "announcement_MHUQgy",
         "announcement_fr6qbm",
+        "announcement_MHUQgy",
         "announcement_R3CWa3"
       ],
       "settings": {
