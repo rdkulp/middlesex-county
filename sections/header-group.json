@@ -18,7 +18,7 @@
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": "JOIN US FOR A SUPPORTERS HAPPY HOUR",
+            "text": "JOIN US FOR A SUPPORTER HAPPY HOUR",
             "link": "shopify://blogs/news/supporter-happy-hour-to-celebrate-the-launch-of-new-jersey-mls-next-pro",
             "font": "var(--font-body--family)",
             "font_size": "var(--font-size--body-sm)",
@@ -32,8 +32,8 @@
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": "Shop our latest arrivals!",
-            "link": "",
+            "text": "Place a deposit to become a founding member",
+            "link": "shopify://products/season-ticket-deposit",
             "font": "var(--font-subheading--family)",
             "font_size": "0.75rem",
             "weight": "",
