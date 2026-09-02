@@ -1971,7 +1971,6 @@
       "block_order": [
         "text_8nztTw"
       ],
-      "disabled": true,
       "name": "t:names.rich_text_section",
       "settings": {
         "content_direction": "column",
@@ -2007,6 +2006,7 @@
         "static-blog-title": {
           "type": "_featured-blog-posts-title",
           "name": "t:names.title",
+          "disabled": true,
           "static": true,
           "settings": {
             "text": "<h3>{{ closest.blog.title }}</h3>",
@@ -2123,7 +2123,6 @@
           "block_order": []
         }
       },
-      "disabled": true,
       "name": "t:names.blog_posts_grid",
       "settings": {
         "blog": "news",
