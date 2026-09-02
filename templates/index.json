@@ -783,7 +783,7 @@
             "overlay_color": "#fffaf78f",
             "overlay_style": "solid",
             "gradient_direction": "to top",
-            "link": "",
+            "link": "shopify://products/season-ticket-deposit",
             "open_in_new_tab": false,
             "placeholder": "",
             "padding-block-start": 0,
