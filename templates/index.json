@@ -774,7 +774,7 @@
             "background_media": "image",
             "video_position": "cover",
             "background_image": "shopify://shop_images/Your_Neighborhood_16_9_1920_x_1080.png",
-            "background_image_position": "fit",
+            "background_image_position": "cover",
             "border": "none",
             "border_width": 10,
             "border_opacity": 100,
