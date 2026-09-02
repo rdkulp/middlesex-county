@@ -315,6 +315,9 @@
         "slide_dkXFWa",
         "slide_DQ73pk"
       ],
+      "custom_css": [
+        "p {text-wrap: balance;}"
+      ],
       "name": "t:names.slideshow_full_frame",
       "settings": {
         "display_mode": "full_frame",
