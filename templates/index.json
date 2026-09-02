@@ -117,7 +117,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/01_Site_Overall_Nightshot_Rendering_4.jpg",
+            "image_1": "shopify://shop_images/01_Site_Overall_Nightshot_Rendering_3.jpg",
             "animates_in": true,
             "content_direction": "column",
             "vertical_on_mobile": true,
