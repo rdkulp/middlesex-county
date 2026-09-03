@@ -547,6 +547,68 @@
                 "accordion_kaRyj3"
               ]
             },
+            "accordion_row_dqf9NL": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "What's the difference between General, Supporters and Premium deposits?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_46PpdC": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<ul><li>General: Priority access to sideline, corner, and goal line seating throughout the stadium</li><li>Supporters: Priority access to the designated supporter section, where you'll find singing, drumming, and flag waving.</li><li>Premium: Priority access to high-end seating including club seats, field-level seats, and suites.</li></ul>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "accordion_9qQBeV": {
+                  "type": "accordion",
+                  "name": "t:names.accordion",
+                  "settings": {
+                    "icon": "caret",
+                    "dividers": true,
+                    "type_preset": "h6",
+                    "inherit_color_scheme": true,
+                    "color_scheme": "",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_46PpdC",
+                "accordion_9qQBeV"
+              ]
+            },
             "accordion_row_3RPwJF": {
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
@@ -743,6 +805,7 @@
             "accordion_row_QyVzMt",
             "accordion_row_djt3Vt",
             "accordion_row_FePtpN",
+            "accordion_row_dqf9NL",
             "accordion_row_3RPwJF",
             "accordion_row_g4J4RM",
             "accordion_row_xw6MPA"
