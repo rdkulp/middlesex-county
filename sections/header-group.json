@@ -42,6 +42,20 @@
           },
           "blocks": {}
         },
+        "announcement_reY6qj": {
+          "type": "_announcement",
+          "name": "t:names.announcement",
+          "settings": {
+            "text": " BRADY O'CONNOR NAMED PRESIDENT OF NEW JERSEY MLS NEXT PRO",
+            "link": "shopify://blogs/news/hometown-soccer-holdings-names-new-jersey-product-brady-oconnor-president-of-new-jersey-mls-next-pro",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none"
+          },
+          "blocks": {}
+        },
         "announcement_R3CWa3": {
           "type": "_announcement",
           "name": "t:names.announcement",
@@ -60,6 +74,7 @@
       "block_order": [
         "announcement_fr6qbm",
         "announcement_MHUQgy",
+        "announcement_reY6qj",
         "announcement_R3CWa3"
       ],
       "settings": {
