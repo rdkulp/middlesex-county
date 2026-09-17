@@ -59,6 +59,7 @@
         "announcement_R3CWa3": {
           "type": "_announcement",
           "name": "t:names.announcement",
+          "disabled": true,
           "settings": {
             "text": "JOIN US FOR A SUPPORTER HAPPY HOUR",
             "link": "shopify://blogs/news/supporter-happy-hour-to-celebrate-the-launch-of-new-jersey-mls-next-pro",
