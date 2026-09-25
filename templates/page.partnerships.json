@@ -17,21 +17,51 @@
           "name": "Title",
           "settings": {
             "text": "<h1>{{ closest.page.title }}</h1>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "left",
             "type_preset": "h2",
-            "width": "100%"
-          }
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         },
         "page-content": {
           "type": "page-content",
-          "settings": {}
+          "disabled": true,
+          "settings": {},
+          "blocks": {}
+        },
+        "custom_liquid_bd97aj": {
+          "type": "custom-liquid",
+          "name": "t:names.custom_liquid",
+          "settings": {
+            "custom_liquid": "<script src=\"https://js.hsforms.net/forms/embed/51744226.js\" defer></script>\n<div class=\"hs-form-frame\" data-region=\"na1\" data-form-id=\"66a5722e-630e-437c-9024-562011339a1b\" data-portal-id=\"51744226\"></div>"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "heading",
-        "page-content"
+        "page-content",
+        "custom_liquid_bd97aj"
       ],
       "settings": {
+        "content_direction": "column",
         "gap": 32,
+        "color_scheme": "",
         "padding-block-start": 40,
         "padding-block-end": 80
       }
