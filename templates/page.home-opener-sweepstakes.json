@@ -16,7 +16,7 @@
           "type": "text",
           "name": "Title",
           "settings": {
-            "text": "<h1>{{ closest.page.title }}</h1>",
+            "text": "<p>Home Opener Ticket Sweepstakes</p>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "left",
@@ -42,7 +42,7 @@
           "type": "custom-liquid",
           "name": "t:names.custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<script src=\"https://js.hsforms.net/forms/embed/51744226.js\" defer></script>\n<div class=\"hs-form-frame\" data-region=\"na1\" data-form-id=\"deb071fe-b6b3-4f96-9a92-f13eff0dc47a\" data-portal-id=\"51744226\"></div>"
           },
           "blocks": {}
         }
