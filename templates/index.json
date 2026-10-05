@@ -1131,7 +1131,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>NEXUS STADIUM</h2>",
+                "text": "<h2>THE STADIUM AT NEXUS</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
