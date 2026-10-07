@@ -38,6 +38,30 @@
           },
           "blocks": {}
         },
+        "image_qmE79a": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image": "shopify://shop_images/FanCouncil_05_YourTown_Web_HeadlineOnly_1920x1080_300708bc-f5c9-4afb-bc82-38f699426b41.png",
+            "animates_in": false,
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "text_XnF3xB": {
           "type": "text",
           "name": "t:names.text",
@@ -75,6 +99,7 @@
       },
       "block_order": [
         "heading",
+        "image_qmE79a",
         "text_XnF3xB",
         "custom_liquid_DdXbpQ"
       ],
