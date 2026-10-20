@@ -14,10 +14,9 @@
       "blocks": {
         "slide_JrYkmA": {
           "type": "_slide",
-          "disabled": true,
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/832x1109.png",
+            "image_1": "shopify://shop_images/FanCouncil_05_YourTown_Web_NoText_1920x1080_a60e7852-0b5e-4a36-b889-eb099430f4d9.png",
             "animates_in": true,
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -43,7 +42,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>SUPPORTER HAPPY HOUR</p>",
+                "text": "<p>JOIN THE FAN COUNCIL</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -65,10 +64,10 @@
               },
               "blocks": {}
             },
-            "text_XjwKX6": {
+            "text_6TRcVj": {
               "type": "text",
               "settings": {
-                "text": "<p>Celebrate professional soccer coming to Middlesex County!</p>",
+                "text": "<p>Fans and Supporters invited to apply to help shape the club's brand, culture, and matchday experience</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -93,8 +92,8 @@
             "button_BdbVbC": {
               "type": "button",
               "settings": {
-                "label": "RSVP NOW",
-                "link": "shopify://blogs/news/supporter-happy-hour-to-celebrate-the-launch-of-new-jersey-mls-next-pro",
+                "label": "LEARN MORE",
+                "link": "shopify://pages/fancouncil",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -107,7 +106,7 @@
           },
           "block_order": [
             "text_hb4GGj",
-            "text_XjwKX6",
+            "text_6TRcVj",
             "button_BdbVbC"
           ]
         },
@@ -262,32 +261,6 @@
               },
               "blocks": {}
             },
-            "text_tQw633": {
-              "type": "text",
-              "disabled": true,
-              "settings": {
-                "text": "<p>MLS NEXT Pro is coming to Middlesex County in 2027. Be here from the start.</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 20,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "button_hxVUip": {
               "type": "button",
               "disabled": true,
@@ -306,7 +279,6 @@
           },
           "block_order": [
             "text_3dmQxi",
-            "text_tQw633",
             "button_hxVUip"
           ]
         },
