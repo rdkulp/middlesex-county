@@ -46,8 +46,8 @@
           "type": "_announcement",
           "name": "t:names.announcement",
           "settings": {
-            "text": " BRADY O'CONNOR NAMED PRESIDENT OF NEW JERSEY MLS NEXT PRO",
-            "link": "shopify://blogs/news/hometown-soccer-holdings-names-new-jersey-product-brady-oconnor-president-of-new-jersey-mls-next-pro",
+            "text": "VIVENU SELECTED AS TICKETING PARTNER",
+            "link": "https://www.hometownsoccer.com/news/hometown-soccer-holdings-selects-vivenu-as-its-ticketing-platform-partner",
             "font": "var(--font-body--family)",
             "font_size": "",
             "weight": "",
