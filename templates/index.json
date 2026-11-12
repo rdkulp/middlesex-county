@@ -241,7 +241,7 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/Welcome_16x9_V2.png",
+            "image_1": "shopify://shop_images/AO_Merch_Swap_NJ_v2_4x5_0578b43c-0175-4144-b524-26b87e666d58.png",
             "animates_in": true,
             "content_direction": "column",
             "vertical_on_mobile": true,
@@ -249,8 +249,8 @@
             "vertical_alignment": "center",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 0,
             "inherit_color_scheme": false,
             "color_scheme": "scheme-2",
             "toggle_overlay": true,
@@ -267,7 +267,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>BRADY O'CONNOR NAMED PRESIDENT</p>",
+                "text": "",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -292,7 +292,7 @@
             "text_9nqfrN": {
               "type": "text",
               "settings": {
-                "text": "<p>New Jersey product to lead club's business operations</p>",
+                "text": "<p></p><p></p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -320,7 +320,7 @@
                 "label": "READ MORE",
                 "link": "shopify://blogs/news/hometown-soccer-holdings-names-new-jersey-product-brady-oconnor-president-of-new-jersey-mls-next-pro",
                 "open_in_new_tab": false,
-                "style_class": "button",
+                "style_class": "link",
                 "width": "fit-content",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
