@@ -123,7 +123,7 @@
             "vertical_alignment": "center",
             "align_baseline": false,
             "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "flex-end",
             "gap": 12,
             "inherit_color_scheme": false,
             "color_scheme": "scheme-2",
@@ -188,11 +188,38 @@
               },
               "blocks": {}
             },
-            "button_4yj4rd": {
+            "text_DgWYpQ": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_mcPDyL": {
               "type": "button",
+              "name": "t:names.button",
               "settings": {
                 "label": "READ MORE",
-                "link": "",
+                "link": "https://www.hometownsoccer.com/news/hometown-soccer-holdings-selects-vivenu-as-its-ticketing-platform-partner",
                 "open_in_new_tab": true,
                 "style_class": "button",
                 "width": "fit-content",
@@ -206,7 +233,8 @@
           "block_order": [
             "text_djgTDM",
             "text_b8BiTT",
-            "button_4yj4rd"
+            "text_DgWYpQ",
+            "button_mcPDyL"
           ]
         },
         "slide_M3ChrB": {
