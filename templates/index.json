@@ -523,7 +523,7 @@
         "display_mode": "full_frame",
         "section_width": "full-width",
         "full_frame_on_mobile": false,
-        "slideshow_gap": 12,
+        "slideshow_gap": 0,
         "corner_radius": 0,
         "slide_height": "medium",
         "content_position": "on-media",
