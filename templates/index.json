@@ -239,6 +239,7 @@
         },
         "slide_M3ChrB": {
           "type": "_slide",
+          "disabled": true,
           "settings": {
             "media_type_1": "image",
             "image_1": "shopify://shop_images/AO_Merch_Swap_NJ_v2_4x5_0578b43c-0175-4144-b524-26b87e666d58.png",
